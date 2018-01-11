@@ -1,0 +1,1 @@
+{"/home/fabio/www/projeto-spotify/gulpfile.js":{"sha1":"4b5482f36bec7f032eb0a1235f22ddd562029c22","tasks":{"html":{"name":"html","dependencies":""},"sass":{"name":"sass","dependencies":""},"BS":{"name":"BS","dependencies":"html sass"},"default":{"name":"default","dependencies":"BS"}}}}
