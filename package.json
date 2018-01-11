@@ -12,7 +12,6 @@
   "author": "fabioew89@gmail.com, contato@fabioewerton.com.br",
   "license": "MIT",
   "devDependencies": {
-    "bower": "^1.8.2",
     "browser-sync": "^2.23.5",
     "del": "^3.0.0",
     "gulp": "^3.9.1",

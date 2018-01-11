@@ -1,0 +1,24 @@
+{
+  "name": "projeto-spotify",
+  "description": "projeto de desenvolvimento web, spotfy",
+  "main": "index.js",
+  "authors": [
+    "fabioew89@gmail.com",
+    "contato@fabioewerton.com.br"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "spotify"
+  ],
+  "homepage": "https://github.com/fabioewerton/projeto-spotify",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "4"
+  }
+}
