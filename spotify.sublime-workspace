@@ -1,0 +1,342 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Bro",
+				"browser-sync"
+			],
+			[
+				"bro",
+				"browserSync"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"brow",
+				"browserSync"
+			],
+			[
+				"tex-",
+				"text-decoration"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"gulp",
+				"gulpd\tgulp.dest('folder')"
+			],
+			[
+				"var",
+				"vargulp\tvar gulp = require('name')"
+			],
+			[
+				"gul",
+				"gulps\tgulp.src('folder')"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 324.0,
+		"last_filter": "settings",
+		"selected_items":
+		[
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"gulp h",
+				"Gulp: Hide panel"
+			],
+			[
+				"gulp",
+				"Gulp"
+			],
+			[
+				"gulp k",
+				"Gulp: Kill running tasks"
+			],
+			[
+				"gulp ",
+				"Gulp"
+			],
+			[
+				"gulp s",
+				"Gulp: Show panel"
+			],
+			[
+				"comment",
+				"Toggle Comment"
+			],
+			[
+				"list packa",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"list pak",
+				"Package Control: List Packages"
+			],
+			[
+				"setting",
+				"Preferences: Settings"
+			],
+			[
+				"syntax: h",
+				"Set Syntax: HTML"
+			],
+			[
+				"comm",
+				"Toggle Block Comment"
+			],
+			[
+				"snippet",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"settin",
+				"Preferences: Settings"
+			]
+		],
+		"width": 452.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Fabio/www/project-mySpotfy"
+	],
+	"file_history":
+	[
+		"/C/Users/Fabio/www/project-mySpotfy/package.json",
+		"/C/Users/Fabio/www/project-mySpotfy/gulpfile.js",
+		"/C/Users/Fabio/www/curso-gulp/package.json",
+		"/C/Users/Fabio/www/curso-gulp/src/scss/style.scss",
+		"/C/Users/Fabio/www/curso-gulp/src/index.html",
+		"/C/Users/Fabio/www/curso-gulp/curso-gulp.sublime-project",
+		"/C/Users/Fabio/www/projeto-curso/package.json",
+		"/C/Users/Fabio/AppData/Roaming/Sublime Text 3/Packages/AutoFileName/autofilename.sublime-settings",
+		"/C/Users/Fabio/AppData/Roaming/Sublime Text 3/Packages/User/SublimeHighlight.sublime-settings",
+		"/C/Users/Fabio/AppData/Roaming/Sublime Text 3/Packages/User/highlighter.sublime-settings",
+		"/C/Users/Fabio/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Fabio/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Fabio/www/curso-gulp/gulpfile.js",
+		"/C/Users/Fabio/www/curso-gulp/dist/css/style.css",
+		"/C/Users/Fabio/.ssh/id_rsa.pub",
+		"/C/Users/Fabio/www/projeto-curriculo/css/style.css",
+		"/C/Users/Fabio/www/curso-gulp/dist/index.html",
+		"/C/Users/Fabio/www/curso-gulp/notas/plugins-essenciais.txt",
+		"/C/Users/Fabio/www/curso-gulp/notas/gulp-task.txt",
+		"/C/Users/Fabio/www/projeto/package.json",
+		"/C/Users/Fabio/www/curso-gulp/node_modules/abbrev/package.json",
+		"/C/Users/Fabio/www/curso-gulp/package-lock.json",
+		"/C/Users/Fabio/www/curso-gulp/node_modules/gulp-notify/test/main.js",
+		"/C/Users/Fabio/www/curso-gulp/Plugins Essenciais.txt",
+		"/C/Users/Fabio/www/curso-gulp/notas.txt"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 24.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.gulp_output":
+	{
+		"height": 166.0
+	},
+	"pinned_build_system": "",
+	"project": "spotify.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package",
+				"package.json"
+			],
+			[
+				"gulp",
+				"gulpfile.js"
+			],
+			[
+				"style",
+				"src\\scss\\style.scss"
+			],
+			[
+				"inde",
+				"src\\index.html"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"gu",
+				"gulpfile.js"
+			],
+			[
+				"index",
+				"src\\index.html"
+			],
+			[
+				"pack",
+				"node_modules\\abbrev\\package.json"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 209.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
