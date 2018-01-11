@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"bowe",
+				"bower_components/"
+			],
+			[
 				"Bro",
 				"browser-sync"
 			],
@@ -51,25 +55,25 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 324.0,
-		"last_filter": "settings",
+		"height": 179.0,
+		"last_filter": "gulp h",
 		"selected_items":
 		[
 			[
-				"settings",
-				"Preferences: Settings"
-			],
-			[
 				"gulp h",
 				"Gulp: Hide panel"
+			],
+			[
+				"gulp k",
+				"Gulp: Kill running tasks"
 			],
 			[
 				"gulp",
 				"Gulp"
 			],
 			[
-				"gulp k",
-				"Gulp: Kill running tasks"
+				"settings",
+				"Preferences: Settings"
 			],
 			[
 				"gulp ",
@@ -132,7 +136,7 @@
 				"Preferences: Settings"
 			]
 		],
-		"width": 452.0
+		"width": 469.0
 	},
 	"console":
 	{
@@ -153,10 +157,15 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/Fabio/www/project-mySpotfy"
+		"/home/fabio/www/projeto-spotify"
 	],
 	"file_history":
 	[
+		"/home/fabio/www/projeto-spotify/gulpfile.js",
+		"/home/fabio/www/projeto-spotify/src/index.html",
+		"/home/fabio/www/projeto-spotify/_src/index.html",
+		"/home/fabio/www/projeto-spotify/.gitignore",
+		"/home/fabio/www/projeto-spotify/package.json",
 		"/C/Users/Fabio/www/project-mySpotfy/package.json",
 		"/C/Users/Fabio/www/project-mySpotfy/gulpfile.js",
 		"/C/Users/Fabio/www/curso-gulp/package.json",
@@ -227,7 +236,7 @@
 	},
 	"input":
 	{
-		"height": 24.0
+		"height": 26.0
 	},
 	"layout":
 	{
@@ -274,12 +283,16 @@
 		"selected_items":
 		[
 			[
-				"package",
-				"package.json"
-			],
-			[
 				"gulp",
 				"gulpfile.js"
+			],
+			[
+				"index",
+				"_src/index.html"
+			],
+			[
+				"package",
+				"package.json"
 			],
 			[
 				"style",
@@ -296,10 +309,6 @@
 			[
 				"gu",
 				"gulpfile.js"
-			],
-			[
-				"index",
-				"src\\index.html"
 			],
 			[
 				"pack",
@@ -334,7 +343,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 209.0,
+	"side_bar_width": 324.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
