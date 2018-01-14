@@ -47,6 +47,15 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 1064,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -55,10 +64,14 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 179.0,
-		"last_filter": "gulp h",
+		"height": 342.0,
+		"last_filter": "gulp",
 		"selected_items":
 		[
+			[
+				"gulp",
+				"Gulp"
+			],
 			[
 				"gulp h",
 				"Gulp: Hide panel"
@@ -66,10 +79,6 @@
 			[
 				"gulp k",
 				"Gulp: Kill running tasks"
-			],
-			[
-				"gulp",
-				"Gulp"
 			],
 			[
 				"settings",
@@ -136,7 +145,7 @@
 				"Preferences: Settings"
 			]
 		],
-		"width": 469.0
+		"width": 452.0
 	},
 	"console":
 	{
@@ -157,7 +166,9 @@
 	},
 	"expanded_folders":
 	[
-		"/home/fabio/www/projeto-spotify"
+		"/C/Users/Fabio/www/projeto-spotify",
+		"/C/Users/Fabio/www/projeto-spotify/src",
+		"/C/Users/Fabio/www/projeto-spotify/src/bootstrap"
 	],
 	"file_history":
 	[
@@ -225,8 +236,39 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "gulpfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1064,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								355,
+								355
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Seti_UI/icons/Langs/Gulpfile (JS).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
