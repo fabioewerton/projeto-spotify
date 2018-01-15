@@ -1,4 +1,14 @@
-body{
-	background-color: gray;
-	padding: 50px;
-}
+// bootstrap
+@import '../../bower_components/bootstrap/scss/bootstrap';
+
+// font awesome
+@import '../../bower_components/font-awesome/scss/font-awesome';
+
+// Body
+@import 'body';
+
+// header
+@import 'header';
+
+// capa
+@import 'capa';

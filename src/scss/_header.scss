@@ -1,0 +1,27 @@
+header{
+	nav{
+		background-color: rgba(0,0,0,.5);
+		div{
+			a.navbar-brand{
+				padding: 15px 0;
+
+				figure{
+					margin: 0;
+				}
+			}
+			div{
+				ul{
+					li{
+						color: white;
+						a{
+							color:white;
+							&:hover{
+								color: #9bf0e1;
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}

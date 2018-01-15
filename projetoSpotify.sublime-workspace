@@ -4,6 +4,58 @@
 		"selected_items":
 		[
 			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"a",
+				"repeat-y"
+			],
+			[
+				"bacg",
+				"background-attachment"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"fa",
+				"favicon.png\tw:128 h:128"
+			],
+			[
 				"bowe",
 				"bower_components/"
 			],
@@ -14,10 +66,6 @@
 			[
 				"bro",
 				"browserSync"
-			],
-			[
-				"text",
-				"text-align"
 			],
 			[
 				"brow",
@@ -48,10 +96,19 @@
 	"buffers":
 	[
 		{
-			"file": "gulpfile.js",
+			"file": "src/index.html",
 			"settings":
 			{
-				"buffer_size": 1064,
+				"buffer_size": 2885,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/scss/_capa.scss",
+			"settings":
+			{
+				"buffer_size": 693,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -65,28 +122,32 @@
 	"command_palette":
 	{
 		"height": 342.0,
-		"last_filter": "gulp",
+		"last_filter": "settings",
 		"selected_items":
 		[
 			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
 				"gulp",
-				"Gulp"
+				"Gulp: Hide panel"
 			],
 			[
 				"gulp h",
 				"Gulp: Hide panel"
 			],
 			[
-				"gulp k",
-				"Gulp: Kill running tasks"
-			],
-			[
-				"settings",
-				"Preferences: Settings"
+				"install",
+				"Package Control: Install Package"
 			],
 			[
 				"gulp ",
 				"Gulp"
+			],
+			[
+				"gulp k",
+				"Gulp: Kill running tasks"
 			],
 			[
 				"gulp s",
@@ -99,10 +160,6 @@
 			[
 				"list packa",
 				"Package Control: List Packages"
-			],
-			[
-				"install",
-				"Package Control: Install Package"
 			],
 			[
 				"remov",
@@ -145,7 +202,7 @@
 				"Preferences: Settings"
 			]
 		],
-		"width": 452.0
+		"width": 428.0
 	},
 	"console":
 	{
@@ -168,10 +225,22 @@
 	[
 		"/C/Users/Fabio/www/projeto-spotify",
 		"/C/Users/Fabio/www/projeto-spotify/src",
-		"/C/Users/Fabio/www/projeto-spotify/src/bootstrap"
+		"/C/Users/Fabio/www/projeto-spotify/src/scss"
 	],
 	"file_history":
 	[
+		"/C/Users/Fabio/www/projeto-spotify/src/scss/_body.scss",
+		"/C/Users/Fabio/www/projeto-spotify/src/scss/style.scss",
+		"/C/Users/Fabio/www/estilo.css",
+		"/C/Users/Fabio/www/projeto-spotify/src/scss/_header.scss",
+		"/C/Users/Fabio/www/projeto-inicial-spotify/index.html",
+		"/C/Users/Fabio/www/projeto-spotify/gulpfile.js",
+		"/C/Users/Fabio/www/projeto-spotify/bower_components/font-awesome/scss/_variables.scss",
+		"/C/Users/Fabio/www/index.html",
+		"/C/Users/Fabio/www/projeto-spotify/bower_components/bootstrap/scss/_variables.scss",
+		"/C/Users/Fabio/www/projeto-spotify/dist/css/style.css",
+		"/C/Users/Fabio/www/projeto-spotify/.gitignore",
+		"/C/Users/Fabio/www/projeto-spotify/dist/index.html",
 		"/home/fabio/www/projeto-spotify/gulpfile.js",
 		"/home/fabio/www/projeto-spotify/src/index.html",
 		"/home/fabio/www/projeto-spotify/_src/index.html",
@@ -205,7 +274,7 @@
 	],
 	"find":
 	{
-		"height": 0.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -219,6 +288,18 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"active",
+			"dark",
+			"light",
+			"dark",
+			"light",
+			"16px",
+			"14px",
+			"16px",
+			"px",
+			"1rem",
+			"light",
+			"imagens"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -241,32 +322,60 @@
 			[
 				{
 					"buffer": 0,
-					"file": "gulpfile.js",
+					"file": "src/index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1064,
+						"buffer_size": 2885,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								355,
-								355
+								2098,
+								2098
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Seti_UI/icons/Langs/Gulpfile (JS).tmLanguage",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 350.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/scss/_capa.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 693,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								434,
+								434
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 65.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -274,7 +383,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 34.0
+		"height": 23.0
 	},
 	"input":
 	{
@@ -315,7 +424,7 @@
 	"project": "projetoSpotify.sublime-project",
 	"replace":
 	{
-		"height": 0.0
+		"height": 42.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -325,20 +434,32 @@
 		"selected_items":
 		[
 			[
-				"gulp",
-				"gulpfile.js"
-			],
-			[
-				"index",
-				"_src/index.html"
-			],
-			[
-				"package",
-				"package.json"
+				"body",
+				"src\\scss\\_body.scss"
 			],
 			[
 				"style",
 				"src\\scss\\style.scss"
+			],
+			[
+				"gulp",
+				"gulpfile.js"
+			],
+			[
+				"_vari",
+				"bower_components\\bootstrap\\scss\\_variables.scss"
+			],
+			[
+				"_varia",
+				"bower_components\\bootstrap\\scss\\_variables.scss"
+			],
+			[
+				"index",
+				"src\\index.html"
+			],
+			[
+				"package",
+				"package.json"
 			],
 			[
 				"inde",
