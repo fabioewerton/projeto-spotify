@@ -1,0 +1,44 @@
+footer.rodape{
+	background-color: black;
+	padding: 5rem 0;
+
+	ul{
+		list-style: none;
+
+		li{
+			margin-bottom: 1rem;
+			
+			&:first-child{
+				color: gray;
+				font-size: .75rem;
+				font-weight: bold;
+				text-transform: uppercase;
+			}
+
+			a{
+				color: white;
+				text-decoration: none;
+
+				// // não visitados
+				// &:link{
+				// 	color: white;
+				// }
+
+				// //visitados
+				// &:visited{
+				// 	color: #1db954;
+				// }
+
+				// mouse over
+				&:hover{
+					color: #1db954;
+				}
+
+				// // link selecionado
+				// &:active{
+				// 	color: #1db954;
+				// }
+			}
+		}
+	}
+}
