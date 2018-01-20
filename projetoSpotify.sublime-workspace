@@ -231,9 +231,7 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/Fabio/www/projeto-spotify",
-		"/C/Users/Fabio/www/projeto-spotify/src",
-		"/C/Users/Fabio/www/projeto-spotify/src/scss"
+		"/C/Users/fabio/www/projeto-spotify"
 	],
 	"file_history":
 	[
@@ -286,7 +284,7 @@
 	],
 	"find":
 	{
-		"height": 35.0
+		"height": 23.0
 	},
 	"find_in_files":
 	{
@@ -353,6 +351,7 @@
 						],
 						"settings":
 						{
+<<<<<<< HEAD
 							"bracket_highlighter.busy": false,
 							"bracket_highlighter.clone": -1,
 							"bracket_highlighter.clone_locations":
@@ -532,6 +531,11 @@
 								"bh_square_content"
 							],
 							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+=======
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+>>>>>>> 3ecc8d488420069e25172f1c84e63edf5626512c
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -565,6 +569,7 @@
 						],
 						"settings":
 						{
+<<<<<<< HEAD
 							"bracket_highlighter.busy": false,
 							"bracket_highlighter.clone": -1,
 							"bracket_highlighter.clone_locations":
@@ -731,6 +736,10 @@
 							"syntax": "Packages/HTML/HTML.sublime-syntax",
 							"tab_size": 3,
 							"translate_tabs_to_spaces": true
+=======
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+>>>>>>> 3ecc8d488420069e25172f1c84e63edf5626512c
 						},
 						"translation.x": 0.0,
 						"translation.y": 1425.0,
