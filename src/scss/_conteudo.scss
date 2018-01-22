@@ -1,13 +1,16 @@
 section.conteudo{
-<<<<<<< HEAD
 	background-color: white;
-	padding: 1rem;
+	padding: 3.5rem 0;
 
 	div.o-que-o-spotify-tem{
-		
+		h1, h4{
+			font-weight: bold;
+		}
+		h1{
+			font-size: 3.5rem;
+		}
+		p{
+			font-size: 1.2rem;
+		}
 	}
-=======
-	height: 100vh;
-	background-color: white;
->>>>>>> 3ecc8d488420069e25172f1c84e63edf5626512c
 }

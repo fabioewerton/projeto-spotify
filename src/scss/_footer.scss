@@ -1,6 +1,7 @@
 footer.rodape{
 	background-color: black;
 	padding: 5rem 0;
+	position: relative;
 
 	ul{
 		list-style: none;
@@ -19,11 +20,12 @@ footer.rodape{
 				color: white;
 				text-decoration: none;
 
-				// // não visitados
-				// &:link{
-				// 	color: white;
-				// }
-
+				// não visitados
+				&:link{
+					color: white;
+				}
+				
+				// Não habilitar, todos os links do rodape ficam verdes
 				// //visitados
 				// &:visited{
 				// 	color: #1db954;
@@ -34,11 +36,43 @@ footer.rodape{
 					color: #1db954;
 				}
 
-				// // link selecionado
-				// &:active{
-				// 	color: #1db954;
-				// }
+				// link selecionado
+				&:active{
+					color: #1db954;
+				}
 			}
 		}
 	}
+
+	figure.rodape-rede-social{
+		display: flex;
+		justify-content: flex-end;
+
+		a{
+			margin-left: 1rem;
+		}
+	}
+	.outros-links{
+		padding-top: 5rem;
+		ul{
+			li{
+				a{
+					font-size: .7rem;
+					text-transform: none;
+					color: gray;
+					font-weight: normal;
+					padding-left: 0;
+
+					&:hover{
+						color: #1db954;
+					}
+				}
+			}
+		}
+
+	}
+		p{
+			color: gray;
+			font-size: .8rem;
+		}
 }

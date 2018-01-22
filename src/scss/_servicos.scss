@@ -1,0 +1,29 @@
+.servicos{
+	padding: 3.5rem 0;
+	.container{
+		.row{
+			h1, h3, p{
+				color: white;
+			}
+
+			h1, h3{
+				font-weight: bold;
+			}
+			
+			h1{
+				font-size: 3.5rem;
+			}
+			
+			p{
+				font-size: 1.2rem;
+			}
+		}
+
+		figure{
+			transform: rotate(30deg);
+			position: relative;
+			top: 0;
+			left: -100px;
+		}
+	}
+}
